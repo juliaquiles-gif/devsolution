@@ -5,9 +5,9 @@ document.getElementById("form-contato").addEventListener("submit", function(even
     var email = document.getElementById("email").value;
 
     if (nome === "" || email === "") {
-    alert("Por favor, preencha todos os campos.");
+      alert("Por favor, preencha todos os campos.");
     } else {
-    alert("Mensagem enviada com sucesso!");
+      alert("Mensagem enviada com sucesso!");
 
     }
 });
