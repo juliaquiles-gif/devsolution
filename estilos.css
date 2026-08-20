@@ -6,11 +6,12 @@
 
 body{
     font-family: Arial, sans-serif;
+    background-color: rgb(28, 179, 73);
 }
 
 .funcionalidade {
     padding: 20px;
-    background-color: rgb(0, 0, 0);
+    
 }
 
 .fucionalidades h2 {
